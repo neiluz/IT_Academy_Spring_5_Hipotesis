@@ -9,27 +9,27 @@ _______________________________
 * Aplicación del test de hipótesis e interpretación de resultados.
 
 ### Definición de las variables:
-Rk: Ranking del club.
-Squad: Nombre del club.
-Country: País al que pertenece el equipo.
-LgRk: Posición en la que terminó el equipo en la liga de su país.
-MP: Partidos jugados durante la temporada.
-W: Partidos ganados.
-D: Partidos empatados.
-L: Partidos perdidos.
-GF: Goles a favor.
-GA: Goles en contra.
-GD: Diferencia de goles.
-Pts: Puntos obtenidos.
-Pts/G: Promedio de puntos obtenidos sobre el total de partidos jugados.
-xG: Número de goles esperados de uno o varios jugadores, depende de la calidad de los tiros.
-xGA: Cantidad de goles esperados de los oponentes depende de la calidad de los tiros.
-xGD: Diferencia entre los goles anotados esperados y los fallados esperados. xGD=xG-xGA.
-xGD/90: Número de goles esperados de uno o varios jugadores en 90 minutos.
-Last 5: Resultado de los últimos 5 partidos (ganados, empatados y perdidos).
-Attendance: Número total de asistencias.
-Top Team Scorer: Nombre del goleador y cantidad de goles.
-Goalkeeper: Nombre del portero.
+* Rk: Ranking del club.
+* Squad: Nombre del club.
+* Country: País al que pertenece el equipo.
+* LgRk: Posición en la que terminó el equipo en la liga de su país.
+* MP: Partidos jugados durante la temporada.
+* W: Partidos ganados.
+* D: Partidos empatados.
+* L: Partidos perdidos.
+* GF: Goles a favor.
+* GA: Goles en contra.
+* GD: Diferencia de goles.
+* Pts: Puntos obtenidos.
+* Pts/G: Promedio de puntos obtenidos sobre el total de partidos jugados.
+* xG: Número de goles esperados de uno o varios jugadores, depende de la calidad de los tiros.
+* xGA: Cantidad de goles esperados de los oponentes depende de la calidad de los tiros.
+* xGD: Diferencia entre los goles anotados esperados y los fallados esperados. xGD=xG-xGA.
+* xGD/90: Número de goles esperados de uno o varios jugadores en 90 minutos.
+* Last 5: Resultado de los últimos 5 partidos (ganados, empatados y perdidos).
+* Attendance: Número total de asistencias.
+* Top Team Scorer: Nombre del goleador y cantidad de goles.
+* Goalkeeper: Nombre del portero.
 
 ### Estructura del repositorio:
 * Carga del Dataset
