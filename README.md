@@ -41,15 +41,15 @@ _______________________________
 * Conclusiones
 
 ### Librerias utilizadas:
-Pandas 
-Matplotlib
-Seaborn
-Plotly.express
-Joypy
-Missingno a
-Scipy import 
+* Pandas 
+* Matplotlib
+* Seaborn
+* Plotly.express
+* Joypy
+* Missingno a
+* Scipy import 
 
 ### Fuentes utilizadas:
-https://towardsdatascience.com/hypothesis-testing-with-python-step-by-step-hands-on-tutorial-with-practical-examples-e805975ea96e
-https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
-https://www.reneshbedre.com/blog/anova.html
+* https://towardsdatascience.com/hypothesis-testing-with-python-step-by-step-hands-on-tutorial-with-practical-examples-e805975ea96e
+* https://machinelearningmastery.com/statistical-hypothesis-tests-in-python-cheat-sheet/
+* https://www.reneshbedre.com/blog/anova.html
