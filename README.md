@@ -38,7 +38,6 @@ _______________________________
 * Seleccion de un atributo del conjunto de datos y calcular el p-valor y verificar si se rechaza la hipótesis nula escoginedoo un alfa de 5%.
 * Seleccion de dos atributos del conjunto de datos. Calcular los p-valores y verificar si se rechazala hipótesis nula escogiendo un alfa de 5%.
 * Seleccion de tres atributos del conjunto de datos. Calcular el p-valor y verificar si la hipótesis nula escogiendo un alfa de 5%.
-* Conclusiones
 
 ### Librerias utilizadas:
 * Pandas 
@@ -46,7 +45,7 @@ _______________________________
 * Seaborn
 * Plotly.express
 * Joypy
-* Missingno a
+* Missingno 
 * Scipy import 
 
 ### Fuentes utilizadas:
